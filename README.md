@@ -3,7 +3,7 @@
 A fast and lightweight **HTML to JSX converter** built with **React + Tailwind CSS**.  
 Paste your raw HTML code and get clean, React-friendly **JSX output** instantly.  
 
-![App Screenshot](./public/screenshot 1.png)
+![App Screenshot](./public/Screenshot%201.png)
 
 ---
 
